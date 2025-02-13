@@ -5,8 +5,7 @@
 1. [Introdução](#introdução)  
 2. [Verificando Permissões (`ls -l`)](#verificando-permissões)  
 3. [Modificando Permissões (`chmod`)](#modificando-permissoes)  
-4. [Alterando Proprietário (`chown`)](#alterando-proprietário)  
-5. [Auditoria de Permissões](#auditoria-de-permissões)  
+4. [Auditoria de Permissões](#auditoria-de-permissões)  
 
 
 
