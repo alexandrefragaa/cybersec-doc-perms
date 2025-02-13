@@ -1,4 +1,4 @@
-# cybersec-doc-perms
+# linux-doc-perms
 ### Repositório para documentar comandos Linux de gerenciamento de permissões, explicando seu funcionamento e aplicações práticas
 
 ## 📖 Índice  
