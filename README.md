@@ -3,9 +3,9 @@
 
 ## 📖 Índice  
 1. [Introdução](#introdução)  
-2. [Verificando Permissões (`ls -l`)](#verificando-permissões-ls--l)  
-3. [Modificando Permissões (`chmod`)](#modificando-permissões-chmod)  
-4. [Alterando Proprietário (`chown`)](#alterando-proprietário-chown)  
+2. [Verificando Permissões (`ls -l`)](#verificando-permissões)  
+3. [Modificando Permissões (`chmod`)](#modificando-permissoes)  
+4. [Alterando Proprietário (`chown`)](#alterando-proprietário)  
 5. [Auditoria de Permissões](#auditoria-de-permissões)  
 
 
