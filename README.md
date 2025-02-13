@@ -11,17 +11,5 @@
 
 
 ## 📌 Introdução  
-No Linux, cada arquivo tem permissões que controlam **quem pode ler, escrever e executar**.  
+### No Linux, cada arquivo tem permissões que controlam **quem pode ler, escrever e executar**.  
 
-## 🔹 Exemplo de **permissões de um arquivo**:  
-```bash```
-
-ls -l arquivo.txt
-
--rw-r--r-- 1 usuario grupo 1024 Fev 13 10:00 arquivo.txt
-
-### Explicação:
-
-    rw- → O dono pode ler e escrever.
-    r-- → O grupo pode apenas ler.
-    r-- → Outros usuários podem apenas ler.
