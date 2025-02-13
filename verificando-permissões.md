@@ -1,4 +1,4 @@
-!!![Texto Alternativo](alexandrefragaa/cybersec-doc-perms/blob/main/verificar.png)
+![Texto Alternativo](alexandrefragaa/cybersec-doc-perms/blob/main/verificar.png)
 
 
 # 🔍 Verificando Permissões no Linux (`ls -l`)
